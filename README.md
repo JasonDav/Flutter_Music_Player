@@ -1,2 +1,8 @@
-# Flutter_Music_Player
-A simple music player with visualizer and radial seek bar by tutorial.
+# music_player
+
+Music Player with the niceties.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
